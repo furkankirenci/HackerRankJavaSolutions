@@ -25,6 +25,6 @@ public class JavaOutputFormatting {
             System.out.println(s1 + spacex + add1 + add2 + x);
         }
         System.out.println("================================");
-
+        
     }
 }
