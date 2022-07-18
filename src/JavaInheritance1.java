@@ -30,5 +30,4 @@ public class JavaInheritance1 {
         bird.sing();
       
      }
-    
 }
